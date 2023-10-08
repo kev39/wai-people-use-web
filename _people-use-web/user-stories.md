@@ -192,7 +192,10 @@ For more information on implementing techniques that remove barriers for Ilya, s
 -   [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
 -   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
 -   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
+-   [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)![received_637559388463083](https://github.com/w3c/wai-people-use-web/assets/133165995/a8473c25-a2ef-4683-8c80-0301a326322e)
+![received_995955515054144](https://github.com/w3c/wai-people-use-web/assets/133165995/ae149598-17ea-47d3-9632-7cc0c6484a8e)
+![received_881240173420140](https://github.com/w3c/wai-people-use-web/assets/133165995/9218394d-16ed-4b8d-af6d-56445e1b6904)
+
 -   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
 -   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
 -   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
